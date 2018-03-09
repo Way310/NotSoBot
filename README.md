@@ -1,4 +1,7 @@
 # NotSoBot
+
+# NOT APPLICABLE TO THE CURRENT FORK.
+
 ### Requires:
 - Python 3.5
 - [discord.py](https://github.com/rapptz/discord.py)
